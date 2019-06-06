@@ -11,7 +11,7 @@ public class LoginTest {
 
 	public static void main(String[] args) {
 
-
+// login page
 		HomePage home = new HomePage();
 		LoginPage lp = home.goToLogin();
 		ZohoAppPage zp = lp.doLogin("smkanade@yahoo.com", "Manali@2011");
