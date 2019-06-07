@@ -14,10 +14,4 @@
 	</test> <!-- Test -->
 	
 	
-	<test name="CreateAccountTest">
-		<classes>
-			<class name="com.w2a.testcases.CreateAccountTest" />
-		</classes>
-	</test> <!-- Test -->
-	
 </suite> <!-- Suite -->
